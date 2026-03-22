@@ -107,4 +107,4 @@ python backend/create_database.py
 ```
 
 To see the finetuning run `textsql.ipynb` in the `backend` folder.
-Please refer to `DA2026_)8_Report.pdf` for detailed report.
+Please refer to [DA2026_08_Report.pdf] for detailed report.
