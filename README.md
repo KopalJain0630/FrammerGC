@@ -54,4 +54,4 @@ You can create the custom dataset using code
 python backend/create_database.py
 ```
 
-To see the finetuning run `backend/textsql.ipynb`
+To see the finetuning run `textsql.ipynb` in the `backend` folder.
