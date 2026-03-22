@@ -10,7 +10,7 @@ It takes 10-15 minutes to load.
 
 ## Clone the Repository
 ```
-git clone <https://github.com/KopalJain0630/FrammerDashboard>
+git clone https://github.com/KopalJain0630/FrammerDashboard
 cd FrammerDashboard
 ```
 
